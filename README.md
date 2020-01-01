@@ -1,6 +1,7 @@
 # KLWP-Background
 * Experimenting with UI elements and usability, designed for material design, accessibility, and efficiency
 * Uses KLWP wallpaper engine on Android
+* Files packed into .klwp file dumped within this repository 
 # Features
 * Notifications icons on homescreen
 * Interaction with full notification and info
